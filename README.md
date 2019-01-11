@@ -4,8 +4,8 @@
 3. Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: nombre y apellidos, usuariogithub, enlace al hosting de este repositorio HolaMundo de  github.
   1. nombre y apellidos del alumno
   2.usuariogithub
-  4.enlace al repositorio HolaMundo de github
-  5.enlace al hosting de este repositorio HolaMundo de github.
+  3.enlace al repositorio HolaMundo de github
+  4.enlace al hosting de este repositorio HolaMundo de github.
 4. Añade el fichero style.css en la carpeta css. 
 5. Crea un issue denominado "añadir colaborador Fulanito". En él notificarás a uno de tus compañeros que debe añadirse como colaborador.
 6. Deberá añadir una línea a la tabla con los sus datos. Para ello debe crearse una nueva rama, crearse un pull request y cerrarlo. Se hará un merge a la rama máster, pero recuerda que tus datos aparecerán  siempre al principio de la tabla.
